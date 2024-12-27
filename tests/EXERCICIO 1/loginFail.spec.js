@@ -1,0 +1,32 @@
+describe('Tentar fazer login com credenciais inválidas', () => {
+  
+  it('NEW USER SUCCESS and LOGIN (USERNAME WRONG)', () => {
+    cy.visit('http://localhost:3000/signin')
+    cy.get('[data-test="signup"]').click()
+    cy.get('#firstName').type('Lucas')
+    cy.get('#lastName').type('Gomes')
+    cy.get('#username').type('admiro')
+    cy.get('#password').type('123456')
+    cy.get('#confirmPassword').type('123456')
+    cy.get("[type='submit']").click()
+    cy.get('#username').type('admir')
+    cy.get('#password').type('123456')
+    cy.get("[type='submit']").click()
+    cy.get('.MuiAlert-message').contains('Username or password is invalid')
+  })
+
+  it('NEW USER SUCCESS and LOGIN (PASSWORD WRONG)', () => {
+    cy.visit('http://localhost:3000/signin')
+    cy.get('[data-test="signup"]').click()
+    cy.get('#firstName').type('Lucas')
+    cy.get('#lastName').type('Gomes')
+    cy.get('#username').type('admiro')
+    cy.get('#password').type('123456')
+    cy.get('#confirmPassword').type('123456')
+    cy.get("[type='submit']").click()
+    cy.get('#username').type('admiro')
+    cy.get('#password').type('12345')
+    cy.get("[type='submit']").click()
+    cy.get('.MuiAlert-message').contains('Username or password is invalid')
+  })
+})
