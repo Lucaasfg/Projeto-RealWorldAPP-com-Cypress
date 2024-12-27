@@ -3,7 +3,7 @@
 ## Projeto
 
 Como projeto pessoal, dentro do RWA reproduzi 4 tipos de testes de login e cadastro de usuario.
-Os arquivos podem ser encontrados dentro da pasta tests / Exercicio1
+Os arquivos podem ser encontrados dentro da pasta 'tests / EXERCICIO 1'
 
 ## Descrição
 
