@@ -15,3 +15,9 @@ Os arquivos podem ser encontrados dentro de **'tests'** nas respectivas pastas *
 O Real World App (RWA) é um aplicativo criado pela equipe do Cypress para demonstrar o uso real de métodos, padrões e fluxos de teste do Cypress. É uma espécie de clone do aplicativo Venmo, que permite aos usuários criar uma conta, adicionar uma conta bancária e enviar/receber dinheiro entre amigos. 
 
 Repo do RWA: https://github.com/cypress-io/cypress-realworld-app
+
+## Proximos Updates
+>Incluir Page Objects:
+>- Usuario
+>- Login
+>- Pagina Inicial
