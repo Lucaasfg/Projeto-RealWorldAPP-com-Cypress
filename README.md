@@ -2,7 +2,7 @@
 
 ## <u>Projeto</u>
 
-<i> Como projeto e treinamento pessoal, vou utilizar do RWA para fazer exercícios e colocar meu aprendizado do curso "Guardião da Qualidade" da LumeStack para aprender recursos avançados do Cypress e estratégias de teste. Ele serve como uma plataforma de aprendizado para explorar e praticar testes em cenários reais de desenvolvimento de software. Nesse projeto reproduzi testes de **login, cadastro de usuario, transferência de valores e visualização de historico**.</i>
+<i> Como projeto e treinamento pessoal, vou utilizar do RWA para fazer exercícios e colocar em pratica meu aprendizado do curso "Guardião da Qualidade" da LumeStack para aprender recursos avançados do Cypress e estratégias de teste. Ele serve como uma plataforma de aprendizado para explorar e praticar testes em cenários reais de desenvolvimento de software. Nesse projeto reproduzi testes de **login, cadastro de usuario, transferência de valores e visualização de historico**.</i>
 
 Os arquivos podem ser encontrados dentro de **'tests'** nas respectivas pastas **EXERCICIO 1, EXERCICIO 2 e EXERCICIO 3**' 
 
