@@ -3,7 +3,7 @@
 ## Projeto
 
 Como projeto e treinamento pessoal, utilizando o Cypress dentro do RWA reproduzi testes de login, cadastro de usuario, transação de valores e visualização de historico.
-Os arquivos podem ser encontrados dentro da pasta **tests** nas respectivas pastas **EXERCICIO 1, EXERCICIO 2 e EXERCICIO 3**'
+Os arquivos podem ser encontrados dentro da pasta **'tests'** nas respectivas pastas **EXERCICIO 1, EXERCICIO 2 e EXERCICIO 3**'
 
 >**NOTA**
 >
