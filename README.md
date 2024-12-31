@@ -2,8 +2,12 @@
 
 ## Projeto
 
-Como projeto pessoal, dentro do RWA reproduzi 4 tipos de testes de login e cadastro de usuario.
-Os arquivos podem ser encontrados dentro da pasta 'tests' nas respectivas pastas EXERCICIO 1, EXERCICIO 2 e EXERCICIO 3'
+Como projeto e treinamento pessoal, utilizando o Cypress dentro do RWA reproduzi testes de login, cadastro de usuario, transação de valores e visualização de historico.
+Os arquivos podem ser encontrados dentro da pasta **tests** nas respectivas pastas **EXERCICIO 1, EXERCICIO 2 e EXERCICIO 3**'
+
+>**NOTA**
+>
+> É necessario ter **Real World App (RWA)** e **node** instalado
 
 ## Descrição
 
